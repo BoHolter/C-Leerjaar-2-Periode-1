@@ -1,0 +1,10 @@
+﻿  Consumable.cpp
+C:\Users\bohol\source\repos\Game Periode 1 C++\Consumable.cpp(6,1): error C2512: 'Item': no appropriate default constructor available
+      C:\Users\bohol\source\repos\Game Periode 1 C++\Item.h(3,7):
+      see declaration of 'Item'
+  
+  Game Periode 1 C++.cpp
+  Inventory.cpp
+  Item.cpp
+  Ínventory.cpp
+  Generating Code...
